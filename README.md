@@ -17,3 +17,5 @@ Euler numerical integration methods. The models were then evaluated for various 
 We successfully solved the proposed SEIR and SEIRV models, using
 a numerical integration scheme. Furthermore, we used a nonlinear least square
 optimizer to fit the model to the Indian Covid Delta wave numbers
+
+The data, final code, graphs and slides are available in the repository
